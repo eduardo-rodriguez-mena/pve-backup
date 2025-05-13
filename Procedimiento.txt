@@ -1,0 +1,9 @@
+Revisar procedimiento de instalación en https://forum.proxmox.com/threads/is-there-a-way-to-backup-the-pve-host-to-the-proxmox-backup-server-pbs.157945/
+
+Para PVE y PBS
+. Script va a: /etc/cron.daily/pve-backup
+. Env va a:  /etc/pve-backup.env
+
+
+
+
